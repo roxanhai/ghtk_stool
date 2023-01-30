@@ -1,0 +1,92 @@
+{
+  "config.version" : "2.0",
+  "config.project.from.csv" : "false",
+  "config.encoding" : "UTF-8",
+  "config.email.suffix" : "@",
+  "config.field.mappings" : {
+    "Assignee" : {
+      "jira.field" : "assignee"
+    },
+    "Issue Type" : {
+      "jira.field" : "issuetype"
+    },
+    "Reporter" : {
+      "jira.field" : "reporter"
+    },
+    "Summary" : {
+      "jira.field" : "summary"
+    },
+    "Epic Name" : {
+      "existing.custom.field" : "10104"
+    }
+  },
+  "config.value.mappings" : {
+    "Assignee" : {
+      "tinhdd2" : "tinhdd2"
+    },
+    "Issue Type" : {
+      "Epic" : "10000"
+    },
+    "Reporter" : {
+      "anbh2" : "anbh2"
+    },
+    "Summary" : {
+      "SLQ QLTS W46" : "SLQ QLTS W46",
+      "SLQ ERP W46" : "SLQ ERP W46",
+      "SLQ LOYALTY W46" : "SLQ LOYALTY W46",
+      "SLQ QTM W46" : "SLQ QTM W46",
+      "SLQ PAYMENT W46" : "SLQ PAYMENT W46",
+      "SLQ BANK PAYMENT W46" : "SLQ BANK PAYMENT W46",
+      "SLQ NEWKT W46" : "SLQ NEWKT W46",
+      "SLQ ECOM DB CS W46" : "SLQ ECOM DB CS W46",
+      "SLQ MOSHOP W46" : "SLQ MOSHOP W46",
+      "SLQ SA ARCHIVED W46" : "SLQ SA ARCHIVED W46",
+      "SLQ ECOM DB MASTER W46" : "SLQ ECOM DB MASTER W46",
+      "SLQ THUNDER W46" : "SLQ THUNDER W46",
+      "SLQ INTER W46" : "SLQ INTER W46",
+      "SLQ QC TOOL W46" : "SLQ QC TOOL W46",
+      "SLQ ECOM DB OTHERSERVICES W46" : "SLQ ECOM DB OTHERSERVICES W46",
+      "SLQ NEW CODS W46" : "SLQ NEW CODS W46",
+      "SLQ FULLFILLMENT W46" : "SLQ FULLFILLMENT W46",
+      "SLQ XTEAM W46" : "SLQ XTEAM W46",
+      "SLQ ECOM DB ADMIN W46" : "SLQ ECOM DB ADMIN W46",
+      "SLQ ECOM DB BACKGROUND W46" : "SLQ ECOM DB BACKGROUND W46",
+      "SLQ BIGDATA W46" : "SLQ BIGDATA W46",
+      "SLQ EKYC W46" : "SLQ EKYC W46"
+    },
+    "Epic Name" : {
+      "SLQ QLTS W46" : "SLQ QLTS W46",
+      "SLQ ERP W46" : "SLQ ERP W46",
+      "SLQ LOYALTY W46" : "SLQ LOYALTY W46",
+      "SLQ QTM W46" : "SLQ QTM W46",
+      "SLQ PAYMENT W46" : "SLQ PAYMENT W46",
+      "SLQ BANK PAYMENT W46" : "SLQ BANK PAYMENT W46",
+      "SLQ NEWKT W46" : "SLQ NEWKT W46",
+      "SLQ ECOM DB CS W46" : "SLQ ECOM DB CS W46",
+      "SLQ MOSHOP W46" : "SLQ MOSHOP W46",
+      "SLQ SA ARCHIVED W46" : "SLQ SA ARCHIVED W46",
+      "SLQ ECOM DB MASTER W46" : "SLQ ECOM DB MASTER W46",
+      "SLQ THUNDER W46" : "SLQ THUNDER W46",
+      "SLQ INTER W46" : "SLQ INTER W46",
+      "SLQ QC TOOL W46" : "SLQ QC TOOL W46",
+      "SLQ ECOM DB OTHERSERVICES W46" : "SLQ ECOM DB OTHERSERVICES W46",
+      "SLQ NEW CODS W46" : "SLQ NEW CODS W46",
+      "SLQ FULLFILLMENT W46" : "SLQ FULLFILLMENT W46",
+      "SLQ XTEAM W46" : "SLQ XTEAM W46",
+      "SLQ ECOM DB ADMIN W46" : "SLQ ECOM DB ADMIN W46",
+      "SLQ ECOM DB BACKGROUND W46" : "SLQ ECOM DB BACKGROUND W46",
+      "SLQ BIGDATA W46" : "SLQ BIGDATA W46",
+      "SLQ EKYC W46" : "SLQ EKYC W46"
+    }
+  },
+  "config.delimiter" : ",",
+  "config.project" : {
+    "project.type" : null,
+    "project.key" : "SAIYAN",
+    "project.description" : null,
+    "project.url" : null,
+    "project.name" : "Saiyan",
+    "project.lead" : "khoimt"
+  },
+  "config.date.format" : "dd/MM/yyyy h:mm a"
+}

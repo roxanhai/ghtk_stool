@@ -1,0 +1,9 @@
+- Chưa Commit vào DB
+
+- Thêm phần Insert cho tool
+
+- go build .\cmd\my-cli\stool.go    
+
+- go run cmd/my-cli/stool.go gp --path "C:\Users\ADMIN\Downloads\Slow-queries 13-10-2022.xlsx"
+
+- ./stool gp --path "C:\Users\ADMIN\Downloads\Slow-queries 13-10-2022.xlsx"
